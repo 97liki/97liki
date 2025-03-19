@@ -10,9 +10,6 @@ I’m **Likitha Konam**, a passionate **AI & Software Developer** with a strong 
   - Caregiver Services
   - User Authentication
   - Profile Management
-- 🛠️ **Tech Stack for AccessShare:**
-  - **Backend:** FastAPI, SQLAlchemy, PostgreSQL, Pydantic, Alembic
-  - **Frontend:** React, TypeScript, Tailwind CSS, TanStack Query
 - 🌟 **Upcoming:** Microsoft Intern '25
 - 👯 **Looking to collaborate on:** AI/ML projects, NLP applications, and Full-Stack Development
 - 🏆 **Achievements:**
@@ -60,6 +57,3 @@ I’m **Likitha Konam**, a passionate **AI & Software Developer** with a strong 
 <p align="center">
 <a href="https://github.com/97liki"><img src="https://github-profile-trophy.vercel.app/?username=97liki&margin-w=5&theme=radical" alt="Likitha Konam's GitHub Achievements" /></a>
 </p>
-
-### 💰 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/97liki)
