@@ -15,7 +15,6 @@ I’m **Likitha Konam**, a passionate **AI & Software Developer** with a strong 
 - 🏆 **Achievements:**
   - D.E. Shaw Ascend Educare Fellow '24
   - Finalist @ Google Girl Hackathon '24
-  - 5x Hackathon Winner
   - National-Level Tech Fest-JIJNASA Winner
 - 🎮 **Fun Fact:** I developed a **game** that won first place in Mobi Game Expo!
 
