@@ -10,7 +10,6 @@ I’m **Likitha Konam**, a passionate **AI & Software Developer** with a strong 
   - Caregiver Services
   - User Authentication
   - Profile Management
-- 🌟 **Upcoming:** Microsoft Intern '25
 - 👯 **Looking to collaborate on:** AI/ML projects, NLP applications, and Full-Stack Development
 - 🏆 **Achievements:**
   - D.E. Shaw Ascend Educare Fellow '24
