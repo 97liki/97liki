@@ -21,8 +21,12 @@ I’m **Likitha Konam**, a passionate **AI & Software Developer** with a strong 
 
 ### 📫 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/likitha58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Likitha Konam" height="30" width="40" /></a>
-<a href="mailto:konamlikitha@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/likitha58" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Likitha Konam" height="30" width="40" />
+  </a>
+  <a href="mailto:konamlikitha@gmail.com" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
+  </a>
 </p>
 
 ### 💻 Tech Stack
